@@ -4,33 +4,33 @@
 <head>
     <style>
         .quadrado {
-            width: 80%; /* Ajusta o tamanho do quadrado */
-            max-width: 1000px; /* Limita o tamanho máximo do quadrado */
-            height: auto; /* Ajusta a altura automaticamente */
-            background-color: white; /* Fundo branco */
-            box-shadow: 0 0 20px rgba(0, 0, 0, 0.3); /* Sombra */
-            border-radius: 10px; /* Arredondamento das bordas */
-            padding: 20px; /* Espaçamento interno */
-            margin: 20px auto; /* Centraliza horizontalmente e adiciona margem superior e inferior */
-            display: flex; /* Para centralizar o conteúdo internamente */
-            flex-direction: column; /* Alinhar o conteúdo verticalmente */
-            justify-content: center; /* Alinhar o conteúdo verticalmente */
-            align-items: center; /* Alinhar o conteúdo horizontalmente */
+            width: 80%;
+            max-width: 1000px;
+            height: auto;
+            background-color: white;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+            border-radius: 10px;
+            padding: 20px; 
+            margin: 20px auto;
+            display: flex;
+            flex-direction:
+            justify-content: center;
+            align-items: center;
         }
         .btn {
             padding: 10px 20px;
-            background-color: #007bff; /* Cor de fundo azul */
-            color: white; /* Cor do texto branca */
+            background-color: #007bff;
+            color: white;
             text-decoration: none;
             border: none;
             border-radius: 5px;
             cursor: pointer;
-            width: 200px; /* Largura fixa para os botões */
-            text-align: center; /* Centralizar o texto horizontalmente */
-            box-sizing: border-box; /* Incluir padding e border na largura total */
+            width: 200px;
+            text-align: center;
+            box-sizing: border-box;
             font-size: 16px;
-            margin: 0px auto; /* Centraliza horizontalmente */
-            display: block; /* Define o botão como bloco para que a margem automática funcione */
+            margin: 0px auto;
+            display: block;
         }
         
         h1{

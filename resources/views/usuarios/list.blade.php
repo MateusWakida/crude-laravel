@@ -31,16 +31,16 @@
         .btn {
             display: inline-block;
             padding: 15px 30px;
-            background-color: #007bff; /* Cor de fundo azul */
-            color: white; /* Cor do texto branca */
+            background-color: #007bff;
+            color: white;
             text-decoration: none;
             border: none;
             border-radius: 5px;
             cursor: pointer;
             margin-top: 10px;
-            width: 210px; /* Largura fixa para os botões */
-            text-align: center; /* Centralizar o texto horizontalmente */
-            box-sizing: border-box; /* Incluir padding e border na largura total */
+            width: 210px;
+            text-align: center;
+            box-sizing: border-box;
             font-size: 16px;
         }
 
